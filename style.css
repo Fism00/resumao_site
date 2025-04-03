@@ -1,0 +1,38 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: purple;
+    color: yellow;
+}
+
+section{
+    display: flex;
+    padding: 20px;
+}
+
+.separacao{
+    padding: 20px;
+    border-color: yellow;
+    border: solid;
+}
+
+.capitulo{
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+#navbar{
+    height: 200px;
+    align-content: center;
+    margin: 20px;
+}
+
+#title{
+    font-size: 100px;
+}
+
+.caixa{
+    padding: 50px;
+    background-color: yellow;
+    color: purple;
+}
