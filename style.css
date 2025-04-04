@@ -9,7 +9,14 @@ section{
     padding: 20px;
 }
 
+.submenu{
+    width: 1750px;
+    text-align: end;
+}
+
+
 .separacao{
+    margin: 10px;
     padding: 20px;
     border-color: yellow;
     border: solid;
@@ -22,13 +29,17 @@ section{
 }
 
 #navbar{
-    height: 200px;
+    border-color: yellow;
+    border: solid;
+    display: flex;
+    height: 140px;
     align-content: center;
-    margin: 20px;
+    margin: 30px;
+    padding: 20px;
 }
 
 #title{
-    font-size: 100px;
+    font-size: 50px;
 }
 
 .caixa{
